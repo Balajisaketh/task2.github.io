@@ -1,0 +1,86 @@
+body {
+    /* background-color: black !important; */
+    
+    
+
+}
+
+.section1 {
+    /* margin-right:200px;
+    /* max-width:600px; */
+    display: flex;
+    /* justify-content: center; */
+    background-color: rgb(244, 244, 244);
+    /* z-index: 2; */
+    
+    /* padding-left: 23%; */
+}
+.icon-size
+{
+    font-size: 245%;
+}
+
+.section2 {
+    background-color: rgb(247, 166, 57);
+    height: 234px;
+    z-index: 1;
+    position:relative;
+    /* justify-content: center; */
+    /* margin-left: 43px; */
+    /* padding-left: 23px; */
+    /* max-width: 650px; */
+
+}
+
+.section3 {
+    z-index: 3;
+  position:absolute;
+ top:164px;
+ align-items:center ;
+ max-width: 650px;
+ margin-left: 563px;
+
+}
+
+.card {
+
+    height: auto;
+    /* box-shadow: 12px 12px 12px 12px rgba(0, 0, 0, 0.2); */
+    z-index: 12;
+    /* margin-right: 372px;
+    margin-left: 223px; */
+    /* justify-content: center !important; */
+    background-color: white
+}
+
+.cardheading {
+    text-align: center;
+}
+
+.card-button {
+    max-width: 153px;
+    text-align: center;
+    margin-left: 109px;
+    background-color: rgb(247, 166, 57);
+    color: white
+}
+
+
+.para4 {
+    text-decoration: underline;
+    color: rgb(247, 166, 57);
+    text-align: center;
+}
+
+.helppara {
+    font-weight: bold;
+    text-align: center;
+}
+.about
+{
+    margin-right: 234px;
+}
+.subpara
+{
+    padding-left: 2%;
+}
